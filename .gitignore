@@ -2,3 +2,7 @@
 /final_review_predictions.csv
 /final_review_predictions_with_lsa.csv
 /README.md
+/nn_model.pkl
+/lsa_model.pkl
+/tfidf_model.pkl
+/classifier_model.pkl
